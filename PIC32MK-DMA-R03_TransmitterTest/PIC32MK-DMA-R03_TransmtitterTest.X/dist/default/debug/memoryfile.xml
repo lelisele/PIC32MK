@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<project>                                  
+  <executable name="dist/default/debug/PIC32MK-DMA-R03_TransmtitterTest.X.debug.elf">                 
+    <memory name="program">                 
+      <units>bytes</units>                 
+      <length>1049728</length>                 
+      <used>3636</used>                     
+      <free>1046092</free>                     
+    </memory>                              
+    <memory name="data">              
+      <units>bytes</units>                 
+      <length>263024</length>                 
+      <used>1800</used>                     
+      <free>261224</free>                     
+    </memory>                              
+  </executable>                            
+</project>                                 
