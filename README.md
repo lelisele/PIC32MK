@@ -6,10 +6,11 @@ Unfortunately, its documentation is not exhaustive (as example I2C interface) an
 All examples are tested on the developed  Control Driver  (PIC32MK) board and applied into different  applications as a main part of the IMCS (Intelligent Motion Control System) **(see CD-PIC32MKdescription.pdf description)**. 
 
 <p align="center">
-<img src="/Images/PIC32MK.jpg" width="350" height="350" />                 <img src="/Images/PIC32MK_logical_SCH.PNG" width="600" height="350" />
+<img src="/Images/PIC32MK.jpg" width="350" height="270" />   <img src="/Images/PIC32MX.jpg" width="375" height="120" />              
 </p>
 <p align="center">
-<img src="/Images/PIC32MX.jpg" width="375" height="75" />
+<img src="/Images/PIC32MK_logical_SCH.PNG" width="600" height="350" />
+
 </p>  
 <p align="center">
 <img src="/Images/PIC32MK_IMCU.PNG" width="600" height="350" />
