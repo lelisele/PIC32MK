@@ -9,7 +9,7 @@ All examples are tested on the developed  Control Driver  (PIC32MK) board and ap
 <img src="/Images/PIC32MK.jpg" width="350" height="350" />                 <img src="/Images/PIC32MK_logical_SCH.PNG" width="600" height="350" />
 </p>
 <p align="center">
-<img src="/Images/PIC32MX.jpg" width="350" height="350" />
+<img src="/Images/PIC32MX.jpg" width="375" height="75" />
 </p>  
 <p align="center">
 <img src="/Images/PIC32MK_IMCU.PNG" width="600" height="350" />
